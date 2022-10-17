@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MarioAnimaBits.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mario Animabits Dialogue0000" x="8" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0001" x="8" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0002" x="449" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0003" x="449" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0004" x="8" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0005" x="8" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0006" x="890" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0007" x="890" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0008" x="1331" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0009" x="1331" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0010" x="1331" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0011" x="1331" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0012" x="1331" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0013" x="1331" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0014" x="1331" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0015" x="1331" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0016" x="1772" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0017" x="1772" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0018" x="2213" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0019" x="2213" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0020" x="2654" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0021" x="2654" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0022" x="3095" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0023" x="3095" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0024" x="3536" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0025" x="3536" y="8" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0026" x="8" y="341" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0027" x="8" y="341" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0028" x="449" y="341" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0029" x="449" y="341" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0030" x="890" y="341" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0031" x="890" y="341" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0032" x="1331" y="341" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0033" x="1331" y="341" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0034" x="1772" y="341" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0035" x="1772" y="341" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0036" x="2213" y="341" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0037" x="2213" y="341" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0038" x="1772" y="341" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0039" x="1772" y="341" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0040" x="2654" y="341" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0041" x="2654" y="341" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0042" x="3095" y="341" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0043" x="3095" y="341" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0044" x="890" y="341" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0045" x="890" y="341" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0046" x="3536" y="341" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0047" x="3536" y="341" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0048" x="8" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0049" x="8" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0050" x="449" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0051" x="449" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0052" x="890" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0053" x="890" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0054" x="890" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0055" x="890" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0056" x="1331" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0057" x="1331" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0058" x="890" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0059" x="890" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0060" x="890" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0061" x="890" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0062" x="890" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0063" x="890" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0064" x="1331" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0065" x="1331" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0066" x="1772" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0067" x="1772" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0068" x="2213" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0069" x="2213" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0070" x="2213" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0071" x="2213" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0072" x="1772" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0073" x="1772" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0074" x="890" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0075" x="890" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0076" x="890" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0077" x="890" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0078" x="2654" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0079" x="2654" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0080" x="3095" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0081" x="3095" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0082" x="3095" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0083" x="3095" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0084" x="3095" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0085" x="3095" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0086" x="3095" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0087" x="3095" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0088" x="3095" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0089" x="3095" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0090" x="3095" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0091" x="3095" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0092" x="3536" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Dialogue0093" x="3536" y="674" width="431" height="323"/>
+	<SubTexture name="Mario Animabits Down0000" x="8" y="1007" width="431" height="323" frameX="-1" frameY="0" frameWidth="432" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Down0001" x="8" y="1007" width="431" height="323" frameX="-1" frameY="0" frameWidth="432" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Down0002" x="449" y="1007" width="431" height="323" frameX="-1" frameY="-1" frameWidth="432" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Down0003" x="449" y="1007" width="431" height="323" frameX="-1" frameY="-1" frameWidth="432" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Down0004" x="890" y="1007" width="431" height="323" frameX="0" frameY="0" frameWidth="432" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Down0005" x="890" y="1007" width="431" height="323" frameX="0" frameY="0" frameWidth="432" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Down0006" x="890" y="1007" width="431" height="323" frameX="0" frameY="0" frameWidth="432" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Down0007" x="890" y="1007" width="431" height="323" frameX="0" frameY="0" frameWidth="432" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Down0008" x="890" y="1007" width="431" height="323" frameX="0" frameY="0" frameWidth="432" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Down0009" x="890" y="1007" width="431" height="323" frameX="0" frameY="0" frameWidth="432" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Down0010" x="890" y="1007" width="431" height="323" frameX="0" frameY="0" frameWidth="432" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Down0011" x="890" y="1007" width="431" height="323" frameX="0" frameY="0" frameWidth="432" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Down0012" x="890" y="1007" width="431" height="323" frameX="0" frameY="0" frameWidth="432" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Down0013" x="890" y="1007" width="431" height="323" frameX="0" frameY="0" frameWidth="432" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Idle0000" x="1331" y="1007" width="431" height="323" frameX="-1" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Idle0001" x="1331" y="1007" width="431" height="323" frameX="-1" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Idle0002" x="1772" y="1007" width="431" height="323" frameX="-1" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Idle0003" x="1772" y="1007" width="431" height="323" frameX="-1" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Idle0004" x="2213" y="1007" width="431" height="323" frameX="0" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Idle0005" x="2213" y="1007" width="431" height="323" frameX="0" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Idle0006" x="2654" y="1007" width="431" height="323" frameX="0" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Idle0007" x="2654" y="1007" width="431" height="323" frameX="0" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Idle0008" x="3095" y="1007" width="431" height="323" frameX="0" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Idle0009" x="3095" y="1007" width="431" height="323" frameX="0" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Idle0010" x="3536" y="1007" width="431" height="323" frameX="0" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Idle0011" x="3536" y="1007" width="431" height="323" frameX="0" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Idle0012" x="3536" y="1007" width="431" height="323" frameX="0" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Idle0013" x="3536" y="1007" width="431" height="323" frameX="0" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Left0000" x="8" y="1340" width="431" height="323" frameX="0" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Left0001" x="8" y="1340" width="431" height="323" frameX="0" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Left0002" x="449" y="1340" width="431" height="323" frameX="-1" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Left0003" x="449" y="1340" width="431" height="323" frameX="-1" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Left0004" x="890" y="1340" width="431" height="323" frameX="-1" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Left0005" x="890" y="1340" width="431" height="323" frameX="-1" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Left0006" x="890" y="1340" width="431" height="323" frameX="-1" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Left0007" x="890" y="1340" width="431" height="323" frameX="-1" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Left0008" x="890" y="1340" width="431" height="323" frameX="-1" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Left0009" x="890" y="1340" width="431" height="323" frameX="-1" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Left0010" x="890" y="1340" width="431" height="323" frameX="-1" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Left0011" x="890" y="1340" width="431" height="323" frameX="-1" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Left0012" x="890" y="1340" width="431" height="323" frameX="-1" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Left0013" x="890" y="1340" width="431" height="323" frameX="-1" frameY="0" frameWidth="432" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Right0000" x="1331" y="1340" width="431" height="323" frameX="-4" frameY="0" frameWidth="435" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Right0001" x="1331" y="1340" width="431" height="323" frameX="-4" frameY="0" frameWidth="435" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Right0002" x="1772" y="1340" width="431" height="323" frameX="0" frameY="0" frameWidth="435" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Right0003" x="1772" y="1340" width="431" height="323" frameX="0" frameY="0" frameWidth="435" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Right0004" x="2213" y="1340" width="431" height="323" frameX="-3" frameY="0" frameWidth="435" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Right0005" x="2213" y="1340" width="431" height="323" frameX="-3" frameY="0" frameWidth="435" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Right0006" x="2213" y="1340" width="431" height="323" frameX="-3" frameY="0" frameWidth="435" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Right0007" x="2213" y="1340" width="431" height="323" frameX="-3" frameY="0" frameWidth="435" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Right0008" x="2213" y="1340" width="431" height="323" frameX="-3" frameY="0" frameWidth="435" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Right0009" x="2213" y="1340" width="431" height="323" frameX="-3" frameY="0" frameWidth="435" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Right0010" x="2213" y="1340" width="431" height="323" frameX="-3" frameY="0" frameWidth="435" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Right0011" x="2213" y="1340" width="431" height="323" frameX="-3" frameY="0" frameWidth="435" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Right0012" x="2213" y="1340" width="431" height="323" frameX="-3" frameY="0" frameWidth="435" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Right0013" x="2213" y="1340" width="431" height="323" frameX="-3" frameY="0" frameWidth="435" frameHeight="323"/>
+	<SubTexture name="Mario Animabits Up0000" x="2654" y="1340" width="431" height="323" frameX="0" frameY="-1" frameWidth="431" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Up0001" x="2654" y="1340" width="431" height="323" frameX="0" frameY="-1" frameWidth="431" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Up0002" x="3095" y="1340" width="431" height="323" frameX="0" frameY="-1" frameWidth="431" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Up0003" x="3095" y="1340" width="431" height="323" frameX="0" frameY="-1" frameWidth="431" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Up0004" x="3536" y="1340" width="431" height="323" frameX="0" frameY="0" frameWidth="431" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Up0005" x="3536" y="1340" width="431" height="323" frameX="0" frameY="0" frameWidth="431" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Up0006" x="3536" y="1340" width="431" height="323" frameX="0" frameY="0" frameWidth="431" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Up0007" x="3536" y="1340" width="431" height="323" frameX="0" frameY="0" frameWidth="431" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Up0008" x="3536" y="1340" width="431" height="323" frameX="0" frameY="0" frameWidth="431" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Up0009" x="3536" y="1340" width="431" height="323" frameX="0" frameY="0" frameWidth="431" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Up0010" x="3536" y="1340" width="431" height="323" frameX="0" frameY="0" frameWidth="431" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Up0011" x="3536" y="1340" width="431" height="323" frameX="0" frameY="0" frameWidth="431" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Up0012" x="3536" y="1340" width="431" height="323" frameX="0" frameY="0" frameWidth="431" frameHeight="324"/>
+	<SubTexture name="Mario Animabits Up0013" x="3536" y="1340" width="431" height="323" frameX="0" frameY="0" frameWidth="431" frameHeight="324"/>
+</TextureAtlas>

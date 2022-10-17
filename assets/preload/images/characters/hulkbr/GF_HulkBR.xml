@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_HulkBR_FIX.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hulkbrGF0000" x="8" y="8" width="464" height="481" frameX="-32" frameY="-11" frameWidth="496" frameHeight="492"/>
+	<SubTexture name="hulkbrGF0001" x="8" y="8" width="464" height="481" frameX="-32" frameY="-11" frameWidth="496" frameHeight="492"/>
+	<SubTexture name="hulkbrGF0002" x="482" y="8" width="460" height="489" frameX="-36" frameY="-3" frameWidth="496" frameHeight="492"/>
+	<SubTexture name="hulkbrGF0003" x="482" y="8" width="460" height="489" frameX="-36" frameY="-3" frameWidth="496" frameHeight="492"/>
+	<SubTexture name="hulkbrGF0004" x="952" y="8" width="473" height="490" frameX="-23" frameY="-2" frameWidth="496" frameHeight="492"/>
+	<SubTexture name="hulkbrGF0005" x="952" y="8" width="473" height="490" frameX="-23" frameY="-2" frameWidth="496" frameHeight="492"/>
+	<SubTexture name="hulkbrGF0006" x="8" y="508" width="494" height="491" frameX="-2" frameY="-1" frameWidth="496" frameHeight="492"/>
+	<SubTexture name="hulkbrGF0007" x="8" y="508" width="494" height="491" frameX="-2" frameY="-1" frameWidth="496" frameHeight="492"/>
+	<SubTexture name="hulkbrGF0008" x="512" y="508" width="496" height="492"/>
+	<SubTexture name="hulkbrGF0009" x="512" y="508" width="496" height="492"/>
+	<SubTexture name="hulkbrGF0010" x="512" y="508" width="496" height="492"/>
+	<SubTexture name="hulkbrGF0011" x="512" y="508" width="496" height="492"/>
+	<SubTexture name="hulkbrGF0012" x="512" y="508" width="496" height="492"/>
+	<SubTexture name="hulkbrGF0013" x="512" y="508" width="496" height="492"/>
+</TextureAtlas>

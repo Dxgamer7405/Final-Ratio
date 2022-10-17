@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				13,
+				-97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ribamar down0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ribamar0"
+		},
+		{
+			"offsets": [
+				-5,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ribamar up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ribamar right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ribamar left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				15,
+				-75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "ribamar down miss"
+		},
+		{
+			"offsets": [
+				1,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "ribamar up miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-4
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "ribamar right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				10
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "ribamar left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				1
+			],
+			"anim": "argumento",
+			"fps": 24,
+			"name": "argumento",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hahamemes",
+			"indices": [],
+			"name": "haha memes"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ribamar_gamer",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ribamar",
+	"flip_x": true,
+	"healthbar_colors": [
+		45,
+		182,
+		255
+	],
+	"camera_position": [
+		100,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.75
+}

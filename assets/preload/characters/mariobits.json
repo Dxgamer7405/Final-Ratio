@@ -1,0 +1,175 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mario Animabits Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mario Animabits Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mario Animabits Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mario Animabits Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mario Animabits Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			],
+			"fps": 24,
+			"anim": "dia",
+			"loop": true,
+			"name": "Mario Animabits Dialogue"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"indices": [
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80
+			],
+			"fps": 27,
+			"anim": "dia2",
+			"loop": false,
+			"name": "Mario Animabits Dialogue"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/animabits/MarioAnimaBits",
+	"position": [
+		40,
+		290
+	],
+	"healthicon": "Merio",
+	"flip_x": true,
+	"healthbar_colors": [
+		254,
+		38,
+		87
+	],
+	"camera_position": [
+		-100,
+		-92
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1.9
+}

@@ -1,0 +1,148 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ronildo0"
+		},
+		{
+			"offsets": [
+				60,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ronildo left"
+		},
+		{
+			"offsets": [
+				-68,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ronildo up"
+		},
+		{
+			"offsets": [
+				-73,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ronildo down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ronildo right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				74,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "ronildoespanca"
+		},
+		{
+			"offsets": [
+				74,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "ronildoespanca"
+		},
+		{
+			"offsets": [
+				2,
+				20
+			],
+			"indices": [
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33
+			],
+			"fps": 24,
+			"anim": "fdp",
+			"loop": false,
+			"name": "ronildo filho da pu"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rolaldo_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "rola",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		252,
+		131
+	],
+	"camera_position": [
+		250,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

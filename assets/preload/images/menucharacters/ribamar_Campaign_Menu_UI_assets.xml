@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Final_Ratio_Campaign_Menu_UI_assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ribamar idle dance0000" x="0" y="607" width="420" height="578" frameX="0" frameY="-26" frameWidth="423" frameHeight="604"/>
+	<SubTexture name="ribamar idle dance0001" x="0" y="607" width="420" height="578" frameX="0" frameY="-26" frameWidth="423" frameHeight="604"/>
+	<SubTexture name="ribamar idle dance0002" x="1320" y="0" width="423" height="579" frameX="0" frameY="-25" frameWidth="423" frameHeight="604"/>
+	<SubTexture name="ribamar idle dance0003" x="1320" y="0" width="423" height="579" frameX="0" frameY="-25" frameWidth="423" frameHeight="604"/>
+	<SubTexture name="ribamar idle dance0004" x="455" y="605" width="404" height="603" frameX="-12" frameY="-1" frameWidth="423" frameHeight="604"/>
+	<SubTexture name="ribamar idle dance0005" x="455" y="605" width="404" height="603" frameX="-12" frameY="-1" frameWidth="423" frameHeight="604"/>
+	<SubTexture name="ribamar idle dance0006" x="859" y="605" width="403" height="604" frameX="-12" frameY="0" frameWidth="423" frameHeight="604"/>
+	<SubTexture name="ribamar idle dance0007" x="859" y="605" width="403" height="604" frameX="-12" frameY="0" frameWidth="423" frameHeight="604"/>
+	<SubTexture name="ribamar idle dance0008" x="1320" y="579" width="404" height="604" frameX="-11" frameY="0" frameWidth="423" frameHeight="604"/>
+	<SubTexture name="ribamar idle dance0009" x="1320" y="579" width="404" height="604" frameX="-11" frameY="0" frameWidth="423" frameHeight="604"/>
+	<SubTexture name="ribamar idle dance0010" x="1320" y="579" width="404" height="604" frameX="-11" frameY="0" frameWidth="423" frameHeight="604"/>
+	<SubTexture name="ribamar idle dance0011" x="1320" y="579" width="404" height="604" frameX="-11" frameY="0" frameWidth="423" frameHeight="604"/>
+	<SubTexture name="ribamar idle dance0012" x="1320" y="579" width="404" height="604" frameX="-11" frameY="0" frameWidth="423" frameHeight="604"/>
+	<SubTexture name="ribamar idle dance0013" x="1320" y="579" width="404" height="604" frameX="-11" frameY="0" frameWidth="423" frameHeight="604"/>
+	<SubTexture name="ribamar select0000" x="0" y="0" width="455" height="607"/>
+	<SubTexture name="ribamar select0001" x="0" y="0" width="455" height="607"/>
+	<SubTexture name="ribamar select0002" x="455" y="0" width="433" height="605" frameX="-1" frameY="-2" frameWidth="455" frameHeight="607"/>
+	<SubTexture name="ribamar select0003" x="455" y="0" width="433" height="605" frameX="-1" frameY="-2" frameWidth="455" frameHeight="607"/>
+	<SubTexture name="ribamar select0004" x="888" y="0" width="432" height="605" frameX="-1" frameY="-2" frameWidth="455" frameHeight="607"/>
+	<SubTexture name="ribamar select0005" x="888" y="0" width="432" height="605" frameX="-1" frameY="-2" frameWidth="455" frameHeight="607"/>
+	<SubTexture name="ribamar select0006" x="888" y="0" width="432" height="605" frameX="-1" frameY="-2" frameWidth="455" frameHeight="607"/>
+	<SubTexture name="ribamar select0007" x="888" y="0" width="432" height="605" frameX="-1" frameY="-2" frameWidth="455" frameHeight="607"/>
+	<SubTexture name="ribamar select0008" x="888" y="0" width="432" height="605" frameX="-1" frameY="-2" frameWidth="455" frameHeight="607"/>
+	<SubTexture name="ribamar select0009" x="888" y="0" width="432" height="605" frameX="-1" frameY="-2" frameWidth="455" frameHeight="607"/>
+	<SubTexture name="ribamar select0010" x="888" y="0" width="432" height="605" frameX="-1" frameY="-2" frameWidth="455" frameHeight="607"/>
+	<SubTexture name="ribamar select0011" x="888" y="0" width="432" height="605" frameX="-1" frameY="-2" frameWidth="455" frameHeight="607"/>
+	<SubTexture name="ribamar select0012" x="888" y="0" width="432" height="605" frameX="-1" frameY="-2" frameWidth="455" frameHeight="607"/>
+	<SubTexture name="ribamar select0013" x="888" y="0" width="432" height="605" frameX="-1" frameY="-2" frameWidth="455" frameHeight="607"/>
+</TextureAtlas>

@@ -1,0 +1,49 @@
+{
+	"storyName": "nft",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"kindness",
+			"merio",
+			[
+				255,
+				15,
+				53
+			]
+		],
+		[
+			"legomar_game",
+			"legomar-game",
+			[
+				190,
+				255,
+				254
+			]
+		],
+		[
+			"clickbait",
+			"sonic",
+			[
+				0,
+				255,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "nft"
+}

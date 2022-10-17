@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "ribamar select",
+	"idle_anim": "ribamar idle dance",
+	"position": [
+		45,
+		90
+	],
+	"scale": 0.5,
+	"image": "ribamar_Campaign_Menu_UI_assets"
+}

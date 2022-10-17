@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "Ronaldo idle dance",
+	"idle_anim": "Ronaldo idle dance",
+	"position": [
+		330,
+		369
+	],
+	"scale": 0.35,
+	"image": "rolaldo_Campaign_Menu_UI_assets"
+}

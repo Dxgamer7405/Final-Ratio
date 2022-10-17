@@ -1,0 +1,16 @@
+Value 1: Velocidade  (1)
+Value 2: Intensidade (2)
+
+                NOTA MAIS COMPLEXA pra mim lol: 
+Value 1:                               I    Value 2: 
+curBeat % Value 2                      I    CAM ZOOM
+                                       I    0.015*(Value 1)
+                                       I    CAM HUD ZOOM
+                                       I    0.03*(Value 1)
+
+
+copiei do bb panzu lol
+
+
+
+

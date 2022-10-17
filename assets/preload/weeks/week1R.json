@@ -1,0 +1,32 @@
+{
+	"storyName": "ratio showdown",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "ratio",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"rolaldo",
+		"ribamar",
+		""
+	],
+	"songs": [
+		[
+			"ratio",
+			"rola",
+			[
+				255,
+				255,
+				138
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "ratio",
+	"hiddenUntilUnlocked": false
+}

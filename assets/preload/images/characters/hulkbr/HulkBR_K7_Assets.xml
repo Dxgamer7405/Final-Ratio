@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HulkBR_V2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HulkBR Down0000" x="898" y="0" width="455" height="674" frameX="0" frameY="-4" frameWidth="465" frameHeight="679"/>
+	<SubTexture name="HulkBR Down0001" x="898" y="0" width="455" height="674" frameX="0" frameY="-4" frameWidth="465" frameHeight="679"/>
+	<SubTexture name="HulkBR Down0002" x="861" y="688" width="408" height="675" frameX="-54" frameY="-3" frameWidth="465" frameHeight="679"/>
+	<SubTexture name="HulkBR Down0003" x="861" y="688" width="408" height="675" frameX="-54" frameY="-3" frameWidth="465" frameHeight="679"/>
+	<SubTexture name="HulkBR Down0004" x="434" y="2062" width="409" height="679" frameX="-56" frameY="0" frameWidth="465" frameHeight="679"/>
+	<SubTexture name="HulkBR Down0005" x="434" y="2062" width="409" height="679" frameX="-56" frameY="0" frameWidth="465" frameHeight="679"/>
+	<SubTexture name="HulkBR Down0006" x="434" y="2062" width="409" height="679" frameX="-56" frameY="0" frameWidth="465" frameHeight="679"/>
+	<SubTexture name="HulkBR Down0007" x="434" y="2062" width="409" height="679" frameX="-56" frameY="0" frameWidth="465" frameHeight="679"/>
+	<SubTexture name="HulkBR Down0008" x="434" y="2062" width="409" height="679" frameX="-56" frameY="0" frameWidth="465" frameHeight="679"/>
+	<SubTexture name="HulkBR Down0009" x="434" y="2062" width="409" height="679" frameX="-56" frameY="0" frameWidth="465" frameHeight="679"/>
+	<SubTexture name="HulkBR Down0010" x="434" y="2062" width="409" height="679" frameX="-56" frameY="0" frameWidth="465" frameHeight="679"/>
+	<SubTexture name="HulkBR Down0011" x="434" y="2062" width="409" height="679" frameX="-56" frameY="0" frameWidth="465" frameHeight="679"/>
+	<SubTexture name="HulkBR Down0012" x="434" y="2062" width="409" height="679" frameX="-56" frameY="0" frameWidth="465" frameHeight="679"/>
+	<SubTexture name="HulkBR Down0013" x="434" y="2062" width="409" height="679" frameX="-56" frameY="0" frameWidth="465" frameHeight="679"/>
+	<SubTexture name="HulkBR Idle0000" x="1353" y="0" width="423" height="672" frameX="-8" frameY="-6" frameWidth="437" frameHeight="678"/>
+	<SubTexture name="HulkBR Idle0001" x="0" y="2742" width="423" height="672" frameX="-8" frameY="-6" frameWidth="437" frameHeight="678"/>
+	<SubTexture name="HulkBR Idle0002" x="0" y="1386" width="434" height="678" frameX="0" frameY="0" frameWidth="437" frameHeight="678"/>
+	<SubTexture name="HulkBR Idle0003" x="0" y="2064" width="434" height="678" frameX="0" frameY="0" frameWidth="437" frameHeight="678"/>
+	<SubTexture name="HulkBR Idle0004" x="412" y="3414" width="412" height="674" frameX="-23" frameY="-3" frameWidth="437" frameHeight="678"/>
+	<SubTexture name="HulkBR Idle0005" x="449" y="696" width="412" height="674" frameX="-23" frameY="-3" frameWidth="437" frameHeight="678"/>
+	<SubTexture name="HulkBR Idle0006" x="824" y="3394" width="406" height="675" frameX="-29" frameY="-2" frameWidth="437" frameHeight="678"/>
+	<SubTexture name="HulkBR Idle0007" x="1230" y="3394" width="406" height="675" frameX="-29" frameY="-2" frameWidth="437" frameHeight="678"/>
+	<SubTexture name="HulkBR Idle0008" x="1269" y="674" width="408" height="675" frameX="-29" frameY="-2" frameWidth="437" frameHeight="678"/>
+	<SubTexture name="HulkBR Idle0009" x="843" y="2062" width="408" height="675" frameX="-29" frameY="-2" frameWidth="437" frameHeight="678"/>
+	<SubTexture name="HulkBR Idle0010" x="1269" y="674" width="408" height="675" frameX="-29" frameY="-2" frameWidth="437" frameHeight="678"/>
+	<SubTexture name="HulkBR Idle0011" x="843" y="2062" width="408" height="675" frameX="-29" frameY="-2" frameWidth="437" frameHeight="678"/>
+	<SubTexture name="HulkBR Idle0012" x="1269" y="674" width="408" height="675" frameX="-29" frameY="-2" frameWidth="437" frameHeight="678"/>
+	<SubTexture name="HulkBR Idle0013" x="843" y="2062" width="408" height="675" frameX="-29" frameY="-2" frameWidth="437" frameHeight="678"/>
+	<SubTexture name="HulkBR Left0000" x="0" y="696" width="449" height="690" frameX="0" frameY="0" frameWidth="485" frameHeight="690"/>
+	<SubTexture name="HulkBR Left0001" x="0" y="696" width="449" height="690" frameX="0" frameY="0" frameWidth="485" frameHeight="690"/>
+	<SubTexture name="HulkBR Left0002" x="845" y="1370" width="408" height="675" frameX="-73" frameY="-15" frameWidth="485" frameHeight="690"/>
+	<SubTexture name="HulkBR Left0003" x="845" y="1370" width="408" height="675" frameX="-73" frameY="-15" frameWidth="485" frameHeight="690"/>
+	<SubTexture name="HulkBR Left0004" x="0" y="3414" width="412" height="676" frameX="-73" frameY="-14" frameWidth="485" frameHeight="690"/>
+	<SubTexture name="HulkBR Left0005" x="0" y="3414" width="412" height="676" frameX="-73" frameY="-14" frameWidth="485" frameHeight="690"/>
+	<SubTexture name="HulkBR Left0006" x="0" y="3414" width="412" height="676" frameX="-73" frameY="-14" frameWidth="485" frameHeight="690"/>
+	<SubTexture name="HulkBR Left0007" x="0" y="3414" width="412" height="676" frameX="-73" frameY="-14" frameWidth="485" frameHeight="690"/>
+	<SubTexture name="HulkBR Left0008" x="0" y="3414" width="412" height="676" frameX="-73" frameY="-14" frameWidth="485" frameHeight="690"/>
+	<SubTexture name="HulkBR Left0009" x="0" y="3414" width="412" height="676" frameX="-73" frameY="-14" frameWidth="485" frameHeight="690"/>
+	<SubTexture name="HulkBR Left0010" x="0" y="3414" width="412" height="676" frameX="-73" frameY="-14" frameWidth="485" frameHeight="690"/>
+	<SubTexture name="HulkBR Left0011" x="0" y="3414" width="412" height="676" frameX="-73" frameY="-14" frameWidth="485" frameHeight="690"/>
+	<SubTexture name="HulkBR Left0012" x="0" y="3414" width="412" height="676" frameX="-73" frameY="-14" frameWidth="485" frameHeight="690"/>
+	<SubTexture name="HulkBR Left0013" x="0" y="3414" width="412" height="676" frameX="-73" frameY="-14" frameWidth="485" frameHeight="690"/>
+	<SubTexture name="HulkBR Right0000" x="452" y="0" width="446" height="688"/>
+	<SubTexture name="HulkBR Right0001" x="452" y="0" width="446" height="688"/>
+	<SubTexture name="HulkBR Right0002" x="1253" y="1363" width="408" height="675" frameX="-14" frameY="-13" frameWidth="446" frameHeight="688"/>
+	<SubTexture name="HulkBR Right0003" x="1253" y="1363" width="408" height="675" frameX="-14" frameY="-13" frameWidth="446" frameHeight="688"/>
+	<SubTexture name="HulkBR Right0004" x="434" y="1386" width="411" height="676" frameX="-13" frameY="-12" frameWidth="446" frameHeight="688"/>
+	<SubTexture name="HulkBR Right0005" x="434" y="1386" width="411" height="676" frameX="-13" frameY="-12" frameWidth="446" frameHeight="688"/>
+	<SubTexture name="HulkBR Right0006" x="434" y="1386" width="411" height="676" frameX="-13" frameY="-12" frameWidth="446" frameHeight="688"/>
+	<SubTexture name="HulkBR Right0007" x="434" y="1386" width="411" height="676" frameX="-13" frameY="-12" frameWidth="446" frameHeight="688"/>
+	<SubTexture name="HulkBR Right0008" x="434" y="1386" width="411" height="676" frameX="-13" frameY="-12" frameWidth="446" frameHeight="688"/>
+	<SubTexture name="HulkBR Right0009" x="434" y="1386" width="411" height="676" frameX="-13" frameY="-12" frameWidth="446" frameHeight="688"/>
+	<SubTexture name="HulkBR Right0010" x="434" y="1386" width="411" height="676" frameX="-13" frameY="-12" frameWidth="446" frameHeight="688"/>
+	<SubTexture name="HulkBR Right0011" x="434" y="1386" width="411" height="676" frameX="-13" frameY="-12" frameWidth="446" frameHeight="688"/>
+	<SubTexture name="HulkBR Right0012" x="434" y="1386" width="411" height="676" frameX="-13" frameY="-12" frameWidth="446" frameHeight="688"/>
+	<SubTexture name="HulkBR Right0013" x="434" y="1386" width="411" height="676" frameX="-13" frameY="-12" frameWidth="446" frameHeight="688"/>
+	<SubTexture name="HulkBR Right0014" x="434" y="1386" width="411" height="676" frameX="-13" frameY="-12" frameWidth="446" frameHeight="688"/>
+	<SubTexture name="HulkBR Right0015" x="434" y="1386" width="411" height="676" frameX="-13" frameY="-12" frameWidth="446" frameHeight="688"/>
+	<SubTexture name="HulkBR Right0016" x="434" y="1386" width="411" height="676" frameX="-13" frameY="-12" frameWidth="446" frameHeight="688"/>
+	<SubTexture name="HulkBR Right0017" x="434" y="1386" width="411" height="676" frameX="-13" frameY="-12" frameWidth="446" frameHeight="688"/>
+	<SubTexture name="HulkBR Right0018" x="434" y="1386" width="411" height="676" frameX="-13" frameY="-12" frameWidth="446" frameHeight="688"/>
+	<SubTexture name="HulkBR Up0000" x="0" y="0" width="452" height="696" frameX="-7" frameY="0" frameWidth="459" frameHeight="696"/>
+	<SubTexture name="HulkBR Up0001" x="0" y="0" width="452" height="696" frameX="-7" frameY="0" frameWidth="459" frameHeight="696"/>
+	<SubTexture name="HulkBR Up0002" x="1251" y="2045" width="408" height="675" frameX="-2" frameY="-21" frameWidth="459" frameHeight="696"/>
+	<SubTexture name="HulkBR Up0003" x="1251" y="2045" width="408" height="675" frameX="-2" frameY="-21" frameWidth="459" frameHeight="696"/>
+	<SubTexture name="HulkBR Up0004" x="1251" y="2720" width="408" height="674" frameX="0" frameY="-22" frameWidth="459" frameHeight="696"/>
+	<SubTexture name="HulkBR Up0005" x="1251" y="2720" width="408" height="674" frameX="0" frameY="-22" frameWidth="459" frameHeight="696"/>
+	<SubTexture name="HulkBR Up0006" x="1251" y="2720" width="408" height="674" frameX="0" frameY="-22" frameWidth="459" frameHeight="696"/>
+	<SubTexture name="HulkBR Up0007" x="1251" y="2720" width="408" height="674" frameX="0" frameY="-22" frameWidth="459" frameHeight="696"/>
+	<SubTexture name="HulkBR Up0008" x="1251" y="2720" width="408" height="674" frameX="0" frameY="-22" frameWidth="459" frameHeight="696"/>
+	<SubTexture name="HulkBR Up0009" x="1251" y="2720" width="408" height="674" frameX="0" frameY="-22" frameWidth="459" frameHeight="696"/>
+	<SubTexture name="HulkBR Up0010" x="1251" y="2720" width="408" height="674" frameX="0" frameY="-22" frameWidth="459" frameHeight="696"/>
+	<SubTexture name="HulkBR Up0011" x="1251" y="2720" width="408" height="674" frameX="0" frameY="-22" frameWidth="459" frameHeight="696"/>
+	<SubTexture name="HulkBR Up0012" x="1251" y="2720" width="408" height="674" frameX="0" frameY="-22" frameWidth="459" frameHeight="696"/>
+	<SubTexture name="HulkBR Up0013" x="1251" y="2720" width="408" height="674" frameX="0" frameY="-22" frameWidth="459" frameHeight="696"/>
+</TextureAtlas>

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "ribamar dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-74,
+				-39
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "ribamar dead loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				134,
+				-39
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "ribamar retry",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ribamar_gamer_dead",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eggmeme.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="eggman_down0000" x="0" y="0" width="404" height="79" frameX="0" frameY="-233" frameWidth="404" frameHeight="312"/>
+	<SubTexture name="eggman_down0001" x="0" y="0" width="404" height="79" frameX="0" frameY="-233" frameWidth="404" frameHeight="312"/>
+	<SubTexture name="eggman_down0002" x="0" y="0" width="404" height="79" frameX="0" frameY="-233" frameWidth="404" frameHeight="312"/>
+	<SubTexture name="eggman_down0003" x="0" y="0" width="404" height="79" frameX="0" frameY="-233" frameWidth="404" frameHeight="312"/>
+	<SubTexture name="eggman_down0004" x="404" y="0" width="328" height="154" frameX="-38" frameY="-158" frameWidth="404" frameHeight="312"/>
+	<SubTexture name="eggman_down0005" x="404" y="0" width="328" height="154" frameX="-38" frameY="-158" frameWidth="404" frameHeight="312"/>
+	<SubTexture name="eggman_down0006" x="732" y="0" width="332" height="306" frameX="-36" frameY="-6" frameWidth="404" frameHeight="312"/>
+	<SubTexture name="eggman_down0007" x="732" y="0" width="332" height="306" frameX="-36" frameY="-6" frameWidth="404" frameHeight="312"/>
+	<SubTexture name="eggman_down0008" x="732" y="0" width="332" height="306" frameX="-36" frameY="-6" frameWidth="404" frameHeight="312"/>
+	<SubTexture name="eggman_down0009" x="1064" y="0" width="268" height="312" frameX="-68" frameY="0" frameWidth="404" frameHeight="312"/>
+	<SubTexture name="eggman_idle0000" x="1332" y="0" width="333" height="130" frameX="0" frameY="-235" frameWidth="333" frameHeight="365"/>
+	<SubTexture name="eggman_idle0001" x="1332" y="0" width="333" height="130" frameX="0" frameY="-235" frameWidth="333" frameHeight="365"/>
+	<SubTexture name="eggman_idle0002" x="1665" y="0" width="333" height="161" frameX="0" frameY="-204" frameWidth="333" frameHeight="365"/>
+	<SubTexture name="eggman_idle0003" x="1665" y="0" width="333" height="161" frameX="0" frameY="-204" frameWidth="333" frameHeight="365"/>
+	<SubTexture name="eggman_idle0004" x="0" y="312" width="279" height="214" frameX="-27" frameY="-151" frameWidth="333" frameHeight="365"/>
+	<SubTexture name="eggman_idle0005" x="0" y="312" width="279" height="214" frameX="-27" frameY="-151" frameWidth="333" frameHeight="365"/>
+	<SubTexture name="eggman_idle0006" x="279" y="312" width="265" height="274" frameX="-34" frameY="-91" frameWidth="333" frameHeight="365"/>
+	<SubTexture name="eggman_idle0007" x="279" y="312" width="265" height="274" frameX="-34" frameY="-91" frameWidth="333" frameHeight="365"/>
+	<SubTexture name="eggman_idle0008" x="544" y="312" width="251" height="365" frameX="-41" frameY="0" frameWidth="333" frameHeight="365"/>
+	<SubTexture name="eggman_idle0009" x="544" y="312" width="251" height="365" frameX="-41" frameY="0" frameWidth="333" frameHeight="365"/>
+	<SubTexture name="eggman_idle0010" x="544" y="312" width="251" height="365" frameX="-41" frameY="0" frameWidth="333" frameHeight="365"/>
+	<SubTexture name="eggman_idle0011" x="544" y="312" width="251" height="365" frameX="-41" frameY="0" frameWidth="333" frameHeight="365"/>
+	<SubTexture name="eggman_idle0012" x="544" y="312" width="251" height="365" frameX="-41" frameY="0" frameWidth="333" frameHeight="365"/>
+	<SubTexture name="eggman_idle0013" x="544" y="312" width="251" height="365" frameX="-41" frameY="0" frameWidth="333" frameHeight="365"/>
+	<SubTexture name="eggman_idle0014" x="544" y="312" width="251" height="365" frameX="-41" frameY="0" frameWidth="333" frameHeight="365"/>
+	<SubTexture name="eggman_idle0015" x="544" y="312" width="251" height="365" frameX="-41" frameY="0" frameWidth="333" frameHeight="365"/>
+	<SubTexture name="eggman_idle0016" x="544" y="312" width="251" height="365" frameX="-41" frameY="0" frameWidth="333" frameHeight="365"/>
+	<SubTexture name="eggman_idle0017" x="544" y="312" width="251" height="365" frameX="-41" frameY="0" frameWidth="333" frameHeight="365"/>
+	<SubTexture name="eggman_idle0018" x="544" y="312" width="251" height="365" frameX="-41" frameY="0" frameWidth="333" frameHeight="365"/>
+	<SubTexture name="eggman_left0000" x="795" y="312" width="382" height="370" frameX="0" frameY="0" frameWidth="385" frameHeight="370"/>
+	<SubTexture name="eggman_left0001" x="795" y="312" width="382" height="370" frameX="0" frameY="0" frameWidth="385" frameHeight="370"/>
+	<SubTexture name="eggman_left0002" x="1177" y="312" width="318" height="370" frameX="-66" frameY="0" frameWidth="385" frameHeight="370"/>
+	<SubTexture name="eggman_left0003" x="1177" y="312" width="318" height="370" frameX="-66" frameY="0" frameWidth="385" frameHeight="370"/>
+	<SubTexture name="eggman_left0004" x="1495" y="312" width="290" height="370" frameX="-94" frameY="0" frameWidth="385" frameHeight="370"/>
+	<SubTexture name="eggman_left0005" x="1495" y="312" width="290" height="370" frameX="-94" frameY="0" frameWidth="385" frameHeight="370"/>
+	<SubTexture name="eggman_left0006" x="0" y="682" width="268" height="370" frameX="-117" frameY="0" frameWidth="385" frameHeight="370"/>
+	<SubTexture name="eggman_left0007" x="0" y="682" width="268" height="370" frameX="-117" frameY="0" frameWidth="385" frameHeight="370"/>
+	<SubTexture name="eggman_left0008" x="0" y="682" width="268" height="370" frameX="-117" frameY="0" frameWidth="385" frameHeight="370"/>
+	<SubTexture name="eggman_left0009" x="268" y="682" width="233" height="370" frameX="-152" frameY="0" frameWidth="385" frameHeight="370"/>
+	<SubTexture name="eggman_right0000" x="501" y="682" width="423" height="370"/>
+	<SubTexture name="eggman_right0001" x="501" y="682" width="423" height="370"/>
+	<SubTexture name="eggman_right0002" x="924" y="682" width="363" height="370" frameX="0" frameY="0" frameWidth="423" frameHeight="370"/>
+	<SubTexture name="eggman_right0003" x="924" y="682" width="363" height="370" frameX="0" frameY="0" frameWidth="423" frameHeight="370"/>
+	<SubTexture name="eggman_right0004" x="1287" y="682" width="286" height="370" frameX="0" frameY="0" frameWidth="423" frameHeight="370"/>
+	<SubTexture name="eggman_right0005" x="1287" y="682" width="286" height="370" frameX="0" frameY="0" frameWidth="423" frameHeight="370"/>
+	<SubTexture name="eggman_right0006" x="1573" y="682" width="261" height="370" frameX="0" frameY="0" frameWidth="423" frameHeight="370"/>
+	<SubTexture name="eggman_right0007" x="1573" y="682" width="261" height="370" frameX="0" frameY="0" frameWidth="423" frameHeight="370"/>
+	<SubTexture name="eggman_right0008" x="1573" y="682" width="261" height="370" frameX="0" frameY="0" frameWidth="423" frameHeight="370"/>
+	<SubTexture name="eggman_right0009" x="0" y="1052" width="242" height="370" frameX="0" frameY="0" frameWidth="423" frameHeight="370"/>
+	<SubTexture name="eggman_up0000" x="242" y="1052" width="118" height="424" frameX="-44" frameY="0" frameWidth="206" frameHeight="424"/>
+	<SubTexture name="eggman_up0001" x="242" y="1052" width="118" height="424" frameX="-44" frameY="0" frameWidth="206" frameHeight="424"/>
+	<SubTexture name="eggman_up0002" x="242" y="1052" width="118" height="424" frameX="-44" frameY="0" frameWidth="206" frameHeight="424"/>
+	<SubTexture name="eggman_up0003" x="360" y="1052" width="154" height="384" frameX="-26" frameY="-40" frameWidth="206" frameHeight="424"/>
+	<SubTexture name="eggman_up0004" x="360" y="1052" width="154" height="384" frameX="-26" frameY="-40" frameWidth="206" frameHeight="424"/>
+	<SubTexture name="eggman_up0005" x="514" y="1052" width="172" height="346" frameX="-17" frameY="-78" frameWidth="206" frameHeight="424"/>
+	<SubTexture name="eggman_up0006" x="514" y="1052" width="172" height="346" frameX="-17" frameY="-78" frameWidth="206" frameHeight="424"/>
+	<SubTexture name="eggman_up0007" x="514" y="1052" width="172" height="346" frameX="-17" frameY="-78" frameWidth="206" frameHeight="424"/>
+	<SubTexture name="eggman_up0008" x="686" y="1052" width="206" height="323" frameX="0" frameY="-101" frameWidth="206" frameHeight="424"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SonicEXE Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SonicEXE Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SonicEXE Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SonicEXE Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SonicEXE Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-101,
+				-11
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "SonicEXE Laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hulkbr/SonicEXE_Sexy_Assets",
+	"position": [
+		-130,
+		110
+	],
+	"healthicon": "sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		125,
+		255
+	],
+	"camera_position": [
+		60,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

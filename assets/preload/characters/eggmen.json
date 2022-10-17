@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "eggman_idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				136,
+				51
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "eggman_left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-40
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "eggman_down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				136
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "eggman_up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				50
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "eggman_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/whata fuc-/eggman",
+	"position": [
+		400,
+		450
+	],
+	"healthicon": "eggmeme",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}
